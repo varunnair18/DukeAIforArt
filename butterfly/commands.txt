@@ -1,0 +1,7 @@
+python neural_style.py --content_img butterfly.jpg --style_imgs kandinsky.jpg --img_name butterfly7
+python neural_style.py --style_mask --style_mask_imgs blank_mask.jpg --content_img butterfly.jpg --style_imgs eye.jpg --img_name butterfly6
+python neural_style.py --content_img butterfly.jpg --style_imgs moon_and_tree.jpg --img_name butterfly1
+python neural_style.py --content_img butterfly.jpg --style_imgs chinese_mountain.jpg --img_name butterfly2
+python neural_style.py --content_img butterfly.jpg --style_imgs cold.jpg --img_name butterfly4
+python neural_style.py --content_img butterfly.jpg --style_imgs wave.png --img_name butterfly3
+python neural_style.py --content_img butterfly.jpg --style_imgs very_warm.jpg --img_name butterfly5

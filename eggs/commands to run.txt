@@ -1,0 +1,13 @@
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs abstract1.jpg --img_name egg1
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs monet2.jpg --img_name egg8
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs warm_girl.jpg --img_name egg9
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs very_warm.jpg --img_name egg3
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs wave.png --img_name egg2
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs moon_and_tree.jpg --img_name egg5
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs chinese_mountain.jpg --img_name egg6
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs abstract3.jpg --img_name egg4
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs eye.jpg --img_name egg7
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs the_scream.jpg --img_name egg10
+python neural_style.py --content_img blank.jpg --style_mask --style_mask_imgs blank_mask.jpg --style_imgs scary.jpg --img_name egg11
+
+
