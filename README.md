@@ -32,4 +32,4 @@ To Reproduce the images, see [run.sh](https://github.com/danieltao/DukeAIforArt/
 ## Authors
 
 * [**Daniel Tao**](https://www.danieltao.me)
-* **Varun Nair**
+* [**Varun Nair**](https://github.com/varunnair18)
