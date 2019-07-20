@@ -17,6 +17,8 @@ To Reproduce the images, see [run.sh](https://github.com/danieltao/DukeAIforArt/
 
 
 ## Gallary
+<img src="eggs/1.png" width="200" height="200">
+
 ![](eggs/1.png = 200x200)
 ![](eggs/2.png= 200x200)![eggs1](eggs/3.png= 200x200)
 ![](eggs/4.png= 200x200)![eggs1](eggs/5.png= 200x200)![eggs1](eggs/6.png= 200x200)
