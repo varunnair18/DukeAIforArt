@@ -17,7 +17,7 @@ To Reproduce the images, see [run.sh](https://github.com/danieltao/DukeAIforArt/
 
 
 
-## Gallary
+## Gallery
 <img src="eggs/1.png" width="250" height="250"><img src="eggs/2.png" width="250" height="250"><img src="eggs/3.png" width="250" height="250">
 <img src="eggs/4.png" width="250" height="250"><img src="eggs/5.png" width="250" height="250"><img src="eggs/6.png" width="250" height="250">
 <img src="eggs/7.png" width="250" height="250"><img src="eggs/8.png" width="250" height="250"><img src="eggs/9.png" width="250" height="250">
