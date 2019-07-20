@@ -17,9 +17,10 @@ To Reproduce the images, see [run.sh](https://github.com/danieltao/DukeAIforArt/
 
 
 ## Gallary
-![eggs1](eggs/1.png = 200*200)![eggs1](eggs/2.png= 200x200)![eggs1](eggs/3.png= 200*200)
-![eggs1](eggs/4.png= 200*200)![eggs1](eggs/5.png= 200*200)![eggs1](eggs/6.png= 200*200)
-![eggs1](eggs/7.png= 200*200)![eggs1](eggs/8.png= 200*200)![eggs1](eggs/9.png= 200*200)
+![](eggs/1.png = 200x200)
+![](eggs/2.png= 200x200)![eggs1](eggs/3.png= 200x200)
+![](eggs/4.png= 200x200)![eggs1](eggs/5.png= 200x200)![eggs1](eggs/6.png= 200x200)
+![](eggs/7.png= 200x200)![eggs1](eggs/8.png= 200x200)![eggs1](eggs/9.png= 200x200)
 
 ![butterfly](butterfly/1.png= 200*200)![butterfly](butterfly/2.png= 200*200)![butterfly](butterfly/3.png= 200*200)
 ![butterfly](butterfly/4.png= 200*200)![butterfly](butterfly/5.png= 200*200)![butterfly](butterfly/6.png= 200*200)
