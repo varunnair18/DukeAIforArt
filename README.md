@@ -16,17 +16,15 @@ scipy
 To Reproduce the images, see [run.sh](https://github.com/danieltao/DukeAIforArt/blob/master/run.sh)
 
 
+
 ## Gallary
 <img src="eggs/1.png" width="250" height="250"><img src="eggs/2.png" width="250" height="250"><img src="eggs/3.png" width="250" height="250">
+<img src="eggs/4.png" width="250" height="250"><img src="eggs/5.png" width="250" height="250"><img src="eggs/6.png" width="250" height="250">
+<img src="eggs/7.png" width="250" height="250"><img src="eggs/8.png" width="250" height="250"><img src="eggs/9.png" width="250" height="250">
 
-![](eggs/1.png = 200x200)
-![](eggs/2.png= 200x200)![eggs1](eggs/3.png= 200x200)
-![](eggs/4.png= 200x200)![eggs1](eggs/5.png= 200x200)![eggs1](eggs/6.png= 200x200)
-![](eggs/7.png= 200x200)![eggs1](eggs/8.png= 200x200)![eggs1](eggs/9.png= 200x200)
-
-![butterfly](butterfly/1.png= 200*200)![butterfly](butterfly/2.png= 200*200)![butterfly](butterfly/3.png= 200*200)
-![butterfly](butterfly/4.png= 200*200)![butterfly](butterfly/5.png= 200*200)![butterfly](butterfly/6.png= 200*200)
-![butterfly](butterfly/7.png= 200*200)![butterfly](butterfly/10.png= 200*200)
+<img src="butterfly/1.png" width="250" height="250"><img src="butterfly/2.png" width="250" height="250"><img src="butterfly/3.png" width="250" height="250">
+<img src="butterfly/4.png" width="250" height="250"><img src="butterfly/5.png" width="250" height="250"><img src="butterfly/6.png" width="250" height="250">
+<img src="butterfly/7.png" width="250" height="250"><img src="butterfly/10.png" width="250" height="250">
 
 ![Chapel](chapel/japanese_waves_chapel.png)![Chapel](chapel/starry_night_chapel.png)
 
